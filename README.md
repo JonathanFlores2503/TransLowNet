@@ -41,10 +41,10 @@ Ensure the script paths match the location where these files are stored.
 
 ## Step 4 – Run Inference in Jupyter
 
-Open the provided **Jupyter Notebook** and execute it step by step to perform the inference process.  
-The notebook contains:
+Open the notebook **`inferenceV1.ipynb`** and execute it step by step to perform the inference process. The notebook contains:
 
 - **Anomaly Detection** — using C2FPL with UniFormer-S features.
 - **Frame-level AUC Calculation** — ROC curve generation and midpoint threshold selection.
 - **Multiclass Classification** — using TransLowNet for anomalous clip classification.
 - **Final Metrics Computation** — Precision, Recall, F1-score, and Accuracy at clip and video level.
+
