@@ -3,6 +3,8 @@
 
 # Online Modular Framework for Anomaly Detection and Multiclass Classification in Video Surveillance
 
+<img width="1298" height="801" alt="image" src="https://github.com/user-attachments/assets/b288cf71-bb82-4659-aec4-5f33ed06e720" />
+
 This repository contains the inference implementation for the article **"An Online Modular Framework for Anomaly Detection and Multiclass Classification in Video Surveillance"**, currently under review.  
 The following steps describe how to set up the environment, download the necessary precomputed features and model weights, and run the inference locally.
 
